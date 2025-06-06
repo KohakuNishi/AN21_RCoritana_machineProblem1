@@ -1,3 +1,12 @@
+//ITCS227 Source Code Template for 3T AY 2024-2025
+/*
+    Program:    Computation of Grades using Function
+    Programmer: Rembrandt Coritana
+    Section:    AN21   
+    Start Date: 06/06/25
+    End Date:   06/06/25
+*/
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
